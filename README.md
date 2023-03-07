@@ -2,7 +2,7 @@
 
 Gallery with zoom using JavaScript, HTML and CSS only. No framework or libraries. This gallery is for desktop only.
 
-This kind of gallery is very similar nowdays. Give the user the abilaty to change and zoon the image without a single click. Just have to hover in the thumbnail to change the main image. Also can see a zoom of the image by hovering over the image.
+This kind of gallery is very common nowdays. Give the user the abilaty to change and zoon the image without a single click. Just have to hover in the thumbnail to change the main image. Also can see a zoom of the image by hovering over the image.
 
 # Languages used
 * HTML
